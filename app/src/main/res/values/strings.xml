@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pointr Logger</string>
+    <string name="write_log">Write Log</string>
+    <string name="send">Send</string>
+</resources>
